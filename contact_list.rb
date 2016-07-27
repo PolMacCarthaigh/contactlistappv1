@@ -55,7 +55,7 @@ else
   when "search"
     ContactList.finder
   else
-    p 'error, please pick from the list'
+    p 'Please try again from the list provided!'
   end
 end
 
