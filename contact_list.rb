@@ -36,8 +36,6 @@ class ContactList
   end
 end
 
-
-
 if ARGV.empty?
   puts "Here is a list of available commands:"
   puts "new - Create new contact"
